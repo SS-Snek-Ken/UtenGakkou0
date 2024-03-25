@@ -1,6 +1,8 @@
 # UtenGakkou0
 Files for my first RenPy game (Work in progress)
 
+Files are locally updated, not live.
+
 Genre: Visual Novel / Dating Sim
 Intended Audience: A Japanese Vtuber
 
